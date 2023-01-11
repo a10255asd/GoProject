@@ -1,0 +1,2 @@
+# GoProject
+Record Learning GoLong
